@@ -27,5 +27,8 @@ Simplemente puede bifurcar este repositorio y hacer clic en el botón de arriba 
  * [Architectural Refactorings](https://contextmapper.org/docs/architectural-refactorings/)
  * [Generators](https://contextmapper.org/docs/generators/)
 
-## Ubicación de las imágenes de entrega
-En la carpeta `src/main/src-gen` se podrá encontrar las imágenes del Context Mapper llamadas `as_is_ContextMap.png` y `to_be_ContextMap.png` y las imágenes del lenguaje ubicuo llamados `EventStorming AS IS.jpg` y `EventStorming TO BE.jpg`
+## Context Mapper
+En la carpeta `src/main/resources/cml` se podrán encontrar los archivos `cml` para el AS IS y el TO BE del proyecto; como también las imágenes generadas por la herramienta en la carpeta `src/main/src-gen`, con el nombre `as_is_ContextMap.png` y `to_be_ContextMap.png`.
+
+## Lenguaje ubicuo
+En la carpeta `src/main/src-gen` se podrá encontrar las imágenes con el nombre `EventStorming AS IS.jpg` y `EventStorming TO BE.jpg`
